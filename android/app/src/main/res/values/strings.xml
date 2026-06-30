@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">iShop</string>
+    <string name="title_activity_main">iShop</string>
+    <string name="package_name">com.iShop.app</string>
+    <string name="custom_url_scheme">com.iShop.app</string>
+</resources>
